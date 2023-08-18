@@ -12,7 +12,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(45deg, #0d0d0d,#474747);
+    background: linear-gradient(45deg, #0d0d0d,#393838);
     background-attachment: fixed;
 
   }
